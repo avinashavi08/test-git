@@ -1,11 +1,8 @@
 Headings:
 
 this is a file read this file first
-
 this can be readable
-
 this can be close 
-
 this can be store
 
 # paragraph 
