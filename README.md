@@ -20,7 +20,7 @@ erkjbvlidfib.kjrb;kjfehivupasuidfh;
 ![markdownimage](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 # lists:
 
--item 01
--item 02
-  -item 03
-  -item 04
+- item 01
+- item 02
+  - item 03
+  - item 04
