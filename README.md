@@ -1,14 +1,12 @@
 Headings:
 
-THIS is a file 
+this is a file read this file first
 
-IS a file
+this can be readable
 
-A file
-FILE read
-READ this 
-THIS FILE firt
-FIRST.
+this can be close 
+
+this can be store
 
 # paragraph 
 erkjbvlidfib.kjrb;kjfehivupasuidfh;senrf wrgkhbsfiuhviUSHFoSNel/t awlgnislhgp8aygp9wehrpwENTB/LEKBG;LZDFHVUIHZDFIGBRJBG/LTJN;IVUHDP9RHG
