@@ -1,4 +1,4 @@
-headings:
+Headings:
 THIS is a file 
 IS a file
 A file
